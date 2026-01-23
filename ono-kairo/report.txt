@@ -1,0 +1,56 @@
+情報: シンボル 'Cdscell1:LED_THT:LED_D5.0mm' を処理中です。
+情報: シンボル 'D1:LED_THT:LED_D3.0mm' を処理中です。
+情報: シンボル 'EC_sensor1:LED_THT:LED_D5.0mm' を処理中です。
+情報: シンボル 'H1:MountingHole:MountingHole_2.5mm_Pad_TopBottom' を処理中です。
+情報: シンボル 'H3:MountingHole:MountingHole_2.5mm_Pad_TopBottom' を処理中です。
+情報: シンボル 'H2:MountingHole:MountingHole_2.5mm_Pad_TopBottom' を処理中です。
+情報: 合計警告数: 3、エラー数: 2.
+情報: シンボル 'H4:MountingHole:MountingHole_2.5mm_Pad_TopBottom' を処理中です。
+情報: シンボル 'H5:MountingHole:MountingHole_2.5mm_Pad_TopBottom' を処理中です。
+情報: シンボル 'J1:Button_Switch_THT:SW_PUSH_6mm_H4.3mm' を処理中です。
+情報: シンボル 'J2:Button_Switch_THT:SW_PUSH_6mm_H4.3mm' を処理中です。
+情報: シンボル 'pH_sensor1:LED_THT:LED_D5.0mm' を処理中です。
+情報: シンボル 'R1:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal' を処理中です。
+情報: シンボル 'R2:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal' を処理中です。
+情報: シンボル 'R4:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal' を処理中です。
+情報: シンボル 'R5:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal' を処理中です。
+情報: シンボル 'R6:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal' を処理中です。
+情報: シンボル 'R7:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal' を処理中です。
+情報: シンボル 'U1:Package_SO:SOIC-16_3.9x9.9mm_P1.27mm' を処理中です。
+情報: シンボル 'U2:Package_TO_SOT_THT:TO-92_Inline' を処理中です。
+情報: シンボル 'U3:Package_DFN_QFN:DFN-8-1EP_3x2mm_P0.5mm_EP1.75x1.45mm' を処理中です。
+H3 ピン 1 を Net-(D1-A) に接続しました。
+フットプリント H4 を 'MountingHole:MountingHole_2.2mm_M2' から 'MountingHole:MountingHole_2.5mm_Pad_TopBottom' に変更します。
+フィールド H4 を更新.
+H4 ピン 1 を Net-(D1-K) に接続しました。
+H4 ピン 1 を Net-(D1-K) に接続しました。
+H1 ピン 1 を Net-(J1-Pin_2) に接続しました。
+フットプリント H1 を 'MountingHole:MountingHole_2.2mm_M2' から 'MountingHole:MountingHole_2.5mm_Pad_TopBottom' に変更します。
+フットプリント H5 を 'MountingHole:MountingHole_2.2mm_M2' から 'MountingHole:MountingHole_2.5mm_Pad_TopBottom' に変更します。
+フィールド H5 を更新.
+H5 ピン 1 を Net-(J1-Pin_1) に接続しました。
+H5 ピン 1 を Net-(J1-Pin_1) に接続しました。
+H5 ピン 1 を Net-(J1-Pin_1) に接続しました。
+フィールド H1 を更新.
+H1 ピン 1 を Net-(J1-Pin_2) に接続しました。
+H1 ピン 1 を Net-(J1-Pin_2) に接続しました。
+フットプリント H2 を 'MountingHole:MountingHole_2.2mm_M2' から 'MountingHole:MountingHole_2.5mm_Pad_TopBottom' に変更します。
+フィールド H2 を更新.
+H2 ピン 1 を Net-(J2-Pin_2) に接続しました。
+H2 ピン 1 を Net-(J2-Pin_2) に接続しました。
+H2 ピン 1 を Net-(J2-Pin_2) に接続しました。
+フットプリント H3 を 'MountingHole:MountingHole_2.2mm_M2' から 'MountingHole:MountingHole_2.5mm_Pad_TopBottom' に変更します。
+フィールド H3 を更新.
+H3 ピン 1 を Net-(D1-A) に接続しました。
+H3 ピン 1 を Net-(D1-A) に接続しました。
+H4 ピン 1 を Net-(D1-K) に接続しました。
+
+
+警告: コンポーネント U3 パッド 6 に対するネットが見つかりません（ピン 6 がシンボルにありません）。
+警告: コンポーネント U3 パッド 7 に対するネットが見つかりません（ピン 7 がシンボルにありません）。
+警告: コンポーネント U3 パッド 5 に対するネットが見つかりません（ピン 5 がシンボルにありません）。
+エラー: J2 パッド 3 が Button_Switch_THT:SW_PUSH_6mm_H4.3mm に見つかりません。
+エラー: J2 パッド 4 が Button_Switch_THT:SW_PUSH_6mm_H4.3mm に見つかりません。
+
+
+情報: 合計警告数: 3、エラー数: 2.
